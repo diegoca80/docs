@@ -48,7 +48,7 @@
             "group": "Endpoint Examples",
             "pages": [
               "api-reference/endpoint/get",
-              "api-reference/endpoint/predict",
+              "api-reference/endpoint/predict"
             ]
           }
         ]
